@@ -1,0 +1,5 @@
+{
+  "base_url": "https://api.tiktok.com",
+  "output_format": "json",
+  "scraping_speed": 600
+}
