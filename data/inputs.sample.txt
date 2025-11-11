@@ -1,0 +1,4 @@
+# Sample input file for TikTok scraper
+# Format: Post IDs or Usernames (one per line)
+7353781970163272993
+jacksonstips
